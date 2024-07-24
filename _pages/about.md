@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: "Research Interests: HCI, NLP, AI"
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: sagar.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>BSc (Hons) Computer Science</p>
+    <p>Delft University of Technology </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a rising senior in Computer Science at [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/). At TU Delft, I am currently an honors board member, teaching assistant, and student mentor. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests and focus lie in the intersection of human-computer interaction (HCI), natural language processing (NLP), and aritifical intelligence (AI). More specifically, I am interested in undestanding how we can design and integrate AI systems into human contexts effectively. Where "effectively" is understood both through task related (e.g. task performance or time) and behavioral (e.g trust or usability) metrics.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Additionally, I really enjoy teaching! Although, I am yet to receive my [University Teaching Qualification (UTQ)](https://www.tudelft.nl/teaching-support/training-events/university-teaching-qualification-utq-bko) --- or its equivalent --- I enjoy contributing to course design, student assessment, and lecture materials. More information can be found in my "teaching" section :grin:
