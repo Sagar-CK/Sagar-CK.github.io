@@ -38,7 +38,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -130,7 +130,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Sagar's Thoughts # blog_name will be displayed in your blog page
-blog_description: A collections of posts relating to CS or life.
+blog_description: A collections of posts ranging from CS to life in general.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
