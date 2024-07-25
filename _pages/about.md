@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final year student in Computer Science at [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/). At TU Delft, I am currently an honors board member, teaching assistant, and student mentor.
+I am a final year student in Computer Science at [Delft University of Technology (TU Delft)](https://www.tudelft.nl/en/). At TU Delft, I am currently an honors board member, teaching assistant, research assistant, and student mentor.
 
 My research interests and focus lie in the intersection of human-computer interaction (HCI), natural language processing (NLP), and aritifical intelligence (AI). More specifically, I am interested in undestanding how we can design and integrate AI systems into human contexts effectively. Where "effectively" is understood both through task related (e.g. task performance or time) and behavioral (e.g trust or usability) metrics.
 

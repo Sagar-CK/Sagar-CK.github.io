@@ -46,6 +46,6 @@ As opposed to my older websites/portfolios, I would now like to put more focus o
 
 > I recently wanted to get back into technical writing (like some blog posts) after going through some old lecture slides. I initially was inspired by a Data Mining lecture hosted by [Nergis Tömen](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/nergis-toemen) covering recommender systems (including [NMF](https://medium.com/logicai/non-negative-matrix-factorization-for-recommendation-systems-985ca8d5c16c))!
 
-That covers it pretty much, I am looking forward to seeing where this can go :wink:
+That covers everything pretty much, I am looking forward to seeing where this can go :wink:
 
 TLDR: I switched to a new website layout. This means you can expect smaller and more regular updates (like small blog posts).
