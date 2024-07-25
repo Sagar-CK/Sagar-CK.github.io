@@ -21,7 +21,7 @@ Over the past 24 hours, [Neel Lodha](https://www.linkedin.com/in/neel-lodha/?lip
 </div>
 
 As seen above, our increasing reliance on LLMs, especially within education, make us more susceptible to missreliance (over or under reliance). As one can expect, within education this can yield a lot of unintended effects --- erosion of critical thinking, the belief-bias effect, and lack of personalized feedback to name a few. What ANDL aims to achieve is promoting **appropriate reliance**
-within education. 
+within education.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -34,7 +34,7 @@ within education.
 
 **Appropriate Reliance (AR)** is a concept that has received increasing attention in the HCI field recently. Historically, the term was frequently used by researchers in robotics and automation {% cite schemmer2022i %},. In human-AI decision-making it has been conceptualized as "... the reliance of humans on AI advice when it is correct and self-reliance when the AI is incorrect" {% cite schemmer2022i %}.
 
-Through ANDL, we aim to foster appropriate reliance in education through the use of a point system. This system rewards the human verification of LLM outputs and the *human-human verification* of student + AI generated responses. As a student/teacher analytic-driven platform, ANDL aims to ensure that all content is at some point reviewed by a responsible lecturer or teaching assistant. A small preview of how ANDL looks like in the note-taking process for a student can be seen below:
+Through ANDL, we aim to foster appropriate reliance in education through the use of a point system. This system rewards the human verification of LLM outputs and the _human-human verification_ of student + AI generated responses. As a student/teacher analytic-driven platform, ANDL aims to ensure that all content is at some point reviewed by a responsible lecturer or teaching assistant. A small preview of how ANDL looks like in the note-taking process for a student can be seen below:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
