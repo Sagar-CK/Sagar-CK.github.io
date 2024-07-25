@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Sagar-CK.github.io/sitemap.xml
+Sitemap: https://sagarspace.com//sitemap.xml
