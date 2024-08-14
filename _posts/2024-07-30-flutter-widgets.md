@@ -8,4 +8,4 @@ categories: blog
 featured: false
 ---
 
-You can check out the first article by Manu and I on [techrambles now](https://techrambles.vercel.app/tech/flutter/2024/07/30/flutter-widgets.html)! 😁
+You can check out the first article by Manu and I on [techrambles now](https://techrambles.vercel.app/dev/2024/07/30/flutter-widgets.html)! 😁
