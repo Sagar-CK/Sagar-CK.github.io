@@ -3,7 +3,7 @@ layout: post
 title: Computational Intelligence (CI)
 date: 2024-08-13 15:09:00
 description: Upcoming article series on techrambles! 🐜
-tags: tech flutter
+tags: ai ci
 categories: blog
 featured: false
 ---
