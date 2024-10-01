@@ -21,6 +21,18 @@ Information and Data Management is a first year course that teaches how to model
 
 ### CSE1105: Collaborative Software Engineering Project
 
-**Role: Teaching Assistant (TA)**
+**Role: Head Teaching Assistant (TA)**
 
 Modern software development is not just about knowing the right programming language or the right technology stack. It is as important to know how to work together in a team to get a serious programming project done. In CSE1105, students learn how to collaboratively create a software system. The contents of this course include learning about teamwork, interpreting requirements given by a client and breaking them down into actionable tasks, using popular collaboration tools like GitLab to plan and track project progress, using collaborative tools like Git, and learning popular frameworks and libraries to bring the project to success.
+
+### CSE2510: Machine Learning
+
+**Role: Teaching Assistant (TA)**
+
+Machine Learning is a second year course that provides an introduction to the field of machine learning. The course covers the basic concepts of machine learning, including supervised and unsupervised learning, model evaluation, and feature selection. The course also covers the basic algorithms used in machine learning, including decision trees, neural networks, and support vector machines. The course also covers the basic concepts of deep learning, including convolutional neural networks and recurrent neural networks.
+
+### CIEM6302: Advanced Data Science for Traffic and Transportation Engineering
+
+**Role: Teaching Assistant (TA)**
+
+Advanced Data Science for Traffic and Transportation Engineering is a graduate course that provides an introduction to the field of data science for traffic and transportation engineering. The course covers the basic concepts of data science, including data preprocessing, data visualization, and data analysis. The course also covers the basic algorithms used in data science, including decision trees, neural networks, and support vector machines. The course also covers the basic concepts of deep learning, including convolutional neural networks and recurrent neural networks.
