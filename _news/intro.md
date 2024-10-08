@@ -28,7 +28,7 @@ What am I using now you may ask?
 
 Yes, another [jekyll](https://jekyllrb.com/) theme...
 
-However, as someone who never used a static site generator before, I must admit the convinence is unparalled. Till now, I have developed my own portfolio sites from scratch or through helpful quick-start resources (like the one provided for the T3 stack). Here are some things I noticed immediately:
+However, as someone who never used a static site generator before, I must admit the convenience is unparalled. Till now, I have developed my own portfolio sites from scratch or through helpful quick-start resources (like the one provided for the T3 stack). Here are some things I noticed immediately:
 
 <ul>
     <li>Adding content is super easy; markdown coupled with some <a href="https://shopify.github.io/liquid/">liquid</a> scripts get the job done.</li>
@@ -44,7 +44,7 @@ So now back to the main point --- what can you find here?
 
 As opposed to my older websites/portfolios, I would now like to put more focus onto informative, regular, and compact updates. This could range anywhere from random thoughts on SEO optimization to a quick summary of a [medium](https://medium.com/@sagar.chethankumar) article I recently worked on.
 
-> I recently wanted to get back into technical writing (like some blog posts) after going through some old lecture slides. I initially was inspired by a Data Mining lecture hosted by [Nergis Tömen](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/computer-vision-lab/people/nergis-toemen) covering recommender systems (including [NMF](https://medium.com/logicai/non-negative-matrix-factorization-for-recommendation-systems-985ca8d5c16c))!
+> I recently wanted to get back into technical writing (like some blog posts) after going through some old lecture slides. I initially was inspired by a Data Mining lecture covering recommender systems (including [NMF](https://medium.com/logicai/non-negative-matrix-factorization-for-recommendation-systems-985ca8d5c16c))!
 
 That covers everything pretty much, I am looking forward to seeing where this can go :wink:
 
